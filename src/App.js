@@ -18,9 +18,9 @@ function App() {
   const [stateSearch, setStateSearch] = useState("");
 
   // // UI states
-  // const [loadingCities, setLoadingCities] = useState(false);
-  // const [loadingSpots, setLoadingSpots] = useState(false);
-  // const [error, setError] = useState("");
+  const [loadingCities, setLoadingCities] = useState(false);
+  const [loadingSpots, setLoadingSpots] = useState(false);
+  const [error, setError] = useState("");
 
   // Theme states
   const [season, setSeason] = useState("winter");
@@ -95,6 +95,8 @@ function App() {
       return;
     }
 
+    setLoadingCities(true);
+
     fetch(process.env.PUBLIC_URL + "/data/cities.json")
       .then(res => res.json())
       .then(data => {
@@ -103,13 +105,20 @@ function App() {
         );
         setCities(filtered);
       })
-      .catch(err => console.error("Error loading cities:", err));
+      .catch(err => {
+        console.error("Error loading cities:", err);
+        setError("Failed to load cities.");
+      })
+      .finally(() => setLoadingCities(false));
+
   }, [selectedState]);
   /* ===========================
      FETCH SPOTS WHEN CITY CHANGES
   =========================== */
   useEffect(() => {
     if (!selectedCity) return;
+
+    setLoadingSpots(true);
 
     fetch(process.env.PUBLIC_URL + "/data/spots.json")
       .then(res => res.json())
@@ -119,7 +128,12 @@ function App() {
         );
         setSpots(filtered);
       })
-      .catch(err => console.error("Error loading spots:", err));
+      .catch(err => {
+        console.error("Error loading spots:", err);
+        setError("Failed to load tourist spots.");
+      })
+      .finally(() => setLoadingSpots(false));
+
   }, [selectedCity]);
 
   /* ===========================
