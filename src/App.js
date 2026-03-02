@@ -5,8 +5,7 @@ import SeasonBackground from "./SeasonBackground";
 import SeasonEffects from "./SeasonEffects";
 import CursorEffect from "./CursorEffect";
 
-const API_BASE = "http://localhost:5000/api";
-
+// const API_BASE = "https://explorely-backend.onrender.com/api";
 function App() {
   // Data states
   const [states, setStates] = useState([]);
@@ -80,13 +79,10 @@ function App() {
      FETCH STATES ON MOUNT
   =========================== */
   useEffect(() => {
-    axios
-      .get(`${API_BASE}/states`)
-      .then((res) => setStates(res.data))
-      .catch(() => {
-        setError("Failed to load states. Ensure the backend is running.");
-        setStates([]);
-      });
+    fetch("/data/states.json")
+      .then(res => res.json())
+      .then(data => setStates(data))
+      .catch(err => console.error("Error loading states:", err));
   }, []);
 
   /* ===========================
@@ -95,44 +91,35 @@ function App() {
   useEffect(() => {
     if (!selectedState) {
       setCities([]);
-      setSpots([]);
+      setSelectedCity("");
       return;
     }
 
-    setLoadingCities(true);
-    setError("");
-    axios
-      .get(`${API_BASE}/cities?state=${encodeURIComponent(selectedState)}`)
-      .then((res) => setCities(res.data))
-      .catch(() => {
-        setCities([]);
-        setError("Failed to load cities.");
+    fetch("/data/cities.json")
+      .then(res => res.json())
+      .then(data => {
+        const filtered = data.filter(
+          city => city.state === selectedState
+        );
+        setCities(filtered);
       })
-      .finally(() => setLoadingCities(false));
-
-    setSelectedCity("");
-    setSpots([]);
+      .catch(err => console.error("Error loading cities:", err));
   }, [selectedState]);
-
   /* ===========================
      FETCH SPOTS WHEN CITY CHANGES
   =========================== */
   useEffect(() => {
-    if (!selectedCity) {
-      setSpots([]);
-      return;
-    }
+    if (!selectedCity) return;
 
-    setLoadingSpots(true);
-    setError("");
-    axios
-      .get(`${API_BASE}/spots?city=${encodeURIComponent(selectedCity)}`)
-      .then((res) => setSpots(res.data))
-      .catch(() => {
-        setSpots([]);
-        setError("Failed to load tourist spots.");
+    fetch("/data/spots.json")
+      .then(res => res.json())
+      .then(data => {
+        const filtered = data.filter(
+          spot => spot.city === selectedCity
+        );
+        setSpots(filtered);
       })
-      .finally(() => setLoadingSpots(false));
+      .catch(err => console.error("Error loading spots:", err));
   }, [selectedCity]);
 
   /* ===========================
@@ -141,6 +128,11 @@ function App() {
   const handleStateSelect = useCallback((stateName) => {
     setSelectedState(stateName);
     setStateSearch(stateName);
+
+    // Reset dependent data
+    setSelectedCity("");
+    setCities([]);
+    setSpots([]);
   }, []);
 
   /* ===========================
