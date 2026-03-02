@@ -17,10 +17,10 @@ function App() {
   const [selectedCity, setSelectedCity] = useState("");
   const [stateSearch, setStateSearch] = useState("");
 
-  // UI states
-  const [loadingCities, setLoadingCities] = useState(false);
-  const [loadingSpots, setLoadingSpots] = useState(false);
-  const [error, setError] = useState("");
+  // // UI states
+  // const [loadingCities, setLoadingCities] = useState(false);
+  // const [loadingSpots, setLoadingSpots] = useState(false);
+  // const [error, setError] = useState("");
 
   // Theme states
   const [season, setSeason] = useState("winter");
