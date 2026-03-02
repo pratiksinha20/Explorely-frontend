@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useCallback } from "react";
-import axios from "axios";
+// import axios from "axios";
 import "./App.css";
 import SeasonBackground from "./SeasonBackground";
 import SeasonEffects from "./SeasonEffects";
@@ -79,7 +79,7 @@ function App() {
      FETCH STATES ON MOUNT
   =========================== */
   useEffect(() => {
-    fetch("/data/states.json")
+    fetch(process.env.PUBLIC_URL + "/data/states.json")
       .then(res => res.json())
       .then(data => setStates(data))
       .catch(err => console.error("Error loading states:", err));
@@ -95,7 +95,7 @@ function App() {
       return;
     }
 
-    fetch("/data/cities.json")
+    fetch(process.env.PUBLIC_URL + "/data/cities.json")
       .then(res => res.json())
       .then(data => {
         const filtered = data.filter(
@@ -111,7 +111,7 @@ function App() {
   useEffect(() => {
     if (!selectedCity) return;
 
-    fetch("/data/spots.json")
+    fetch(process.env.PUBLIC_URL + "/data/spots.json")
       .then(res => res.json())
       .then(data => {
         const filtered = data.filter(
