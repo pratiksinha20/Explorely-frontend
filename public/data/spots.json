@@ -21,11 +21,32 @@
         "mapLink": "https://www.google.com/maps?q=Mahavir+Mandir+Patna"
     },
     {
+        "name": "Takht Sri Patna Sahib",
+        "city": "Patna",
+        "description": "Sacred Sikh shrine and birthplace of Guru Gobind Singh Ji.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Takht_Sri_Patna_Sahib_02.jpg",
+        "mapLink": "https://www.google.com/maps?q=Patna+Sahib+Gurudwara"
+    },
+    {
+        "name": "Bihar Museum",
+        "city": "Patna",
+        "description": "Modern museum showcasing Bihar’s rich history and culture.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Bihar_Museum_-_Patna_32.jpg",
+        "mapLink": "https://www.google.com/maps?q=Bihar+Museum+Patna"
+    },
+    {
         "name": "Mahabodhi Temple",
-        "city": "Gaya",
-        "description": "UNESCO World Heritage Site where Siddhartha Gautama attained enlightenment under the Bodhi Tree.",
+        "city": "Bodh Gaya",
+        "description": "UNESCO World Heritage Site where Lord Buddha attained enlightenment.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mahabodhi_Temple_-_Bodh_Gaya_%281%29.jpg",
-        "mapLink": "https://www.google.com/maps?q=Mahabodhi+Temple+Bodh+Gaya"
+        "mapLink": "https://www.google.com/maps?q=Mahabodhi+Temple"
+    },
+    {
+        "name": "Great Buddha Statue",
+        "city": "Bodh Gaya",
+        "description": "80-foot tall statue of Lord Buddha in meditation posture.",
+        "image": "http://upload.wikimedia.org/wikipedia/commons/d/d9/The_Great_Buddha_statue%2C_Bodh_Gaya.jpg",
+        "mapLink": "https://www.google.com/maps?q=Great+Buddha+Statue+Bodh+Gaya"
     },
     {
         "name": "Vishnupad Temple",
@@ -33,6 +54,55 @@
         "description": "Ancient temple dedicated to Lord Vishnu, built along the Falgu River with a sacred footprint on basalt.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Vishnupad_Temple%2CUpdated.jpg",
         "mapLink": "https://www.google.com/maps?q=Vishnupad+Temple+Gaya"
+    },
+    {
+        "name": "Nalanda University Ruins",
+        "city": "Nalanda",
+        "description": "Ancient center of learning dating back to 5th century CE.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Nalanda_Buddhist_University_Ruins%2C_which_flourished_from_427_to_1197_CE%2C_Nalanda%2C_Bihar.jpg",
+        "mapLink": "https://www.google.com/maps?q=Nalanda+University+Ruins"
+    },
+    {
+        "name": "Vishwa Shanti Stupa",
+        "city": "Rajgir",
+        "description": "Peace Pagoda built on Ratnagiri Hill offering stunning views.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Vishwa_Shanti_Stupa%2C_Rajgir_%285601083143%29.jpg",
+        "mapLink": "https://www.google.com/maps?q=Vishwa+Shanti+Stupa+Rajgir"
+    },
+    {
+        "name": "Rajgir Hot Springs",
+        "city": "Rajgir",
+        "description": "Natural hot water springs believed to have medicinal properties.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Rajgir_5_Surya_kund_%2830970557324%29.jpg",
+        "mapLink": "https://www.google.com/maps?q=Rajgir+Hot+Springs"
+    },
+    {
+        "name": "Ashoka Pillar",
+        "city": "Vaishali",
+        "description": "Ancient pillar erected by Emperor Ashoka, symbol of Buddhism.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Ashoka_pillar_at_Vaishali%2C_Bihar%2C_India.jpg",
+        "mapLink": "https://www.google.com/maps?q=Ashoka+Pillar+Vaishali"
+    },
+    {
+        "name": "Sher Shah Suri Tomb",
+        "city": "Sasaram",
+        "description": "Magnificent sandstone tomb of Sher Shah Suri built in Indo-Islamic style.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Sher_Shah_Suri_Tomb.jpg",
+        "mapLink": "https://www.google.com/maps?q=Sher+Shah+Suri+Tomb"
+    },
+    {
+        "name": "Munger Fort",
+        "city": "Munger",
+        "description": "Historic fort on the banks of the Ganga River.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Fort_of_munger-Munger-Bihar.jpg",
+        "mapLink": "https://www.google.com/maps?q=Munger+Fort"
+    },
+    {
+        "name": "Janaki Temple",
+        "city": "Sitamarhi",
+        "description": "Believed to be the birthplace of Goddess Sita.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Janaki_Temple%2C_Janakpur-September_22%2C_2016-IMG_7502.jpg",
+        "mapLink": "https://www.google.com/maps?q=Janaki+Temple+Sitamarhi"
     },
     {
         "name": "Badi Dargah",
@@ -44,43 +114,134 @@
     {
         "name": "Ranchi Lake",
         "city": "Ranchi",
-        "description": "Scenic artificial lake in the heart of Ranchi, perfect for boating surrounded by lush greenery.",
+        "description": "Scenic artificial lake in the heart of Ranchi, perfect for boating surrounded by greenery.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/Kanke_Dam_-_Ranchi_9291.JPG",
         "mapLink": "https://www.google.com/maps?q=Ranchi+Lake"
     },
     {
         "name": "Hundru Falls",
         "city": "Ranchi",
-        "description": "A stunning 98-meter waterfall formed by the Subarnarekha River, one of the highest in Jharkhand.",
+        "description": "A 98-meter waterfall formed by the Subarnarekha River, one of the highest in Jharkhand.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Jonha_falls%2C_Jharkhand.jpg",
         "mapLink": "https://www.google.com/maps?q=Hundru+Falls+Ranchi"
     },
     {
+        "name": "Dassam Falls",
+        "city": "Ranchi",
+        "description": "Beautiful waterfall on the Kanchi River, popular picnic spot.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Euphlyctis_sp._frogs_at_a_temporary_pool_at_Dassam_Falls%2C_Jharkhand%2C_India_02.jpg",
+        "mapLink": "https://www.google.com/maps?q=Dassam+Falls"
+    },
+    {
+        "name": "Jonha Falls",
+        "city": "Ranchi",
+        "description": "Also known as Gautamdhara Falls, surrounded by dense forests.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Jonha_falls.jpg",
+        "mapLink": "https://www.google.com/maps?q=Jonha+Falls"
+    },
+    {
+        "name": "Dimna Lake",
+        "city": "Jamshedpur",
+        "description": "Artificial lake at the foothills of Dalma Hills, ideal for picnics and sunrise views.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Dimna_Lake%2C_Jamshedpur.jpg",
+        "mapLink": "https://www.google.com/maps?q=Dimna+Lake"
+    },
+    {
+        "name": "Jubilee Park",
+        "city": "Jamshedpur",
+        "description": "Beautifully maintained park gifted by Tata Steel, known as the Mughal Garden of Jharkhand.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Jubilee_Park_sports_field.jpg",
+        "mapLink": "https://www.google.com/maps?q=Jubilee+Park+Jamshedpur"
+    },
+    {
+        "name": "Dalma Wildlife Sanctuary",
+        "city": "Jamshedpur",
+        "description": "Famous wildlife sanctuary known for elephants and scenic hills.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Dalma_wildlife_sanctuary_20190623_151803.jpg",
+        "mapLink": "https://www.google.com/maps?q=Dalma+Wildlife+Sanctuary"
+    },
+    {
+        "name": "Maithon Dam",
+        "city": "Dhanbad",
+        "description": "Large dam built on Barakar River, famous for boating and scenic beauty.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Maithon_dam%2C_india.jpg",
+        "mapLink": "https://www.google.com/maps?q=Maithon+Dam"
+    },
+    {
+        "name": "Panchet Dam",
+        "city": "Dhanbad",
+        "description": "Multipurpose dam on Damodar River with beautiful sunset views.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Panchet_Dam_%28247922887%29.jpeg",
+        "mapLink": "https://www.google.com/maps?q=Panchet+Dam"
+    },
+    {
         "name": "Canary Hill",
         "city": "Hazaribagh",
-        "description": "Hilltop viewpoint with stunning panoramic views of Hazaribagh town and surrounding forests.",
-        "image": "https://in.pinterest.com/pin/677651075188052314/",
+        "description": "Hilltop viewpoint offering panoramic views of the town and forests.",
+        "image": "canary.png",
         "mapLink": "https://www.google.com/maps?q=Canary+Hill+Hazaribagh"
     },
     {
         "name": "Hazaribagh Wildlife Sanctuary",
         "city": "Hazaribagh",
-        "description": "A lush wildlife sanctuary home to tigers, leopards, and various deer species in dense sal forests.",
+        "description": "Wildlife reserve known for leopards, deer and scenic forest drives.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/H%27Bag_National_Park_Entrance.jpg",
         "mapLink": "https://www.google.com/maps?q=Hazaribagh+Wildlife+Sanctuary"
     },
     {
-        "name": "Maithon Dam",
-        "city": "Dhanbad",
-        "description": "Massive dam on the Barakar River surrounded by hills and dense forests with boating facilities.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Maithon_dam%2C_india.jpg",
-        "mapLink": "https://www.google.com/maps?q=Maithon+Dam+Dhanbad"
+        "name": "Suryakund",
+        "city": "Hazaribagh",
+        "description": "Natural hot water spring believed to have medicinal properties.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Suryakund%2C_Modhera.jpg",
+        "mapLink": "https://www.google.com/maps?q=Suryakund+Hazaribagh"
+    },
+    {
+        "name": "Hazaribagh lake",
+        "city": "Hazaribagh",
+        "description": "Beautiful lake surrounded by lush greenery, perfect for boating and picnics.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Hazaribagh_Jheel_near_Ranchi.jpg",
+        "mapLink": "https://www.google.com/maps?q=Hazaribagh+Lake"
+    },
+    {
+        "name": "Baidyanath Temple",
+        "city": "Deoghar",
+        "description": "One of the 12 Jyotirlingas of Lord Shiva, major pilgrimage site.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Baba_Baidyanath_Jyotirlinga_Temple.jpg",
+        "mapLink": "https://www.google.com/maps?q=Baidyanath+Temple+Deoghar"
+    },
+    {
+        "name": "Trikut Hills",
+        "city": "Deoghar",
+        "description": "Scenic hill range known for trekking and ropeway ride.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Trikut_Hill_08.jpg",
+        "mapLink": "https://www.google.com/maps?q=Trikut+Hills"
+    },
+    {
+        "name": "Netarhat Sunrise Point",
+        "city": "Netarhat",
+        "description": "Famous hill station viewpoint known for mesmerizing sunrise.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Pine_trees_of_Netarhat_Hill_station.jpg",
+        "mapLink": "https://www.google.com/maps?q=Netarhat+Sunrise+Point"
+    },
+    {
+        "name": "Palamu Fort",
+        "city": "Palamu",
+        "description": "Historic fort located inside Betla National Park.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Palamu_Fort%2C_Palamu%2C_Jharkhand_01.jpg",
+        "mapLink": "https://www.google.com/maps?q=Palamu+Fort"
+    },
+    {
+        "name": "Betla National Park",
+        "city": "Palamu",
+        "description": "Popular national park known for tigers, elephants and jungle safari.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Entrance_of_Betla_national_park.jpg",
+        "mapLink": "https://www.google.com/maps?q=Betla+National+Park"
     },
     {
         "name": "Golden Temple",
         "city": "Amritsar",
         "description": "Sri Harmandir Sahib, the holiest Sikh shrine with its stunning golden dome and sacred pool.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Harmandir_Sahib_Panorama.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Harmandir_Sahib_night_view.jpg",
         "mapLink": "https://www.google.com/maps?q=Golden+Temple+Amritsar"
     },
     {
@@ -91,67 +252,263 @@
         "mapLink": "https://www.google.com/maps?q=Jallianwala+Bagh+Amritsar"
     },
     {
-        "name": "Rock Garden",
-        "city": "Chandigarh",
-        "description": "Unique 40-acre sculpture garden created by Nek Chand using recycled industrial waste.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Panorama_of_Rock_Garden%2C_Chandigarh.jpg",
-        "mapLink": "https://www.google.com/maps?q=Rock+Garden+Chandigarh"
+        "name": "Wagah Border",
+        "city": "Amritsar",
+        "description": "Famous India-Pakistan border known for the daily Beating Retreat ceremony.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Wagah_Border_Indian_Side.jpg",
+        "mapLink": "https://www.google.com/maps?q=Wagah+Border"
     },
     {
         "name": "Sukhna Lake",
         "city": "Chandigarh",
         "description": "Beautiful man-made reservoir at the Shivalik foothills, popular for boating and jogging.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Sukhna_Lake%2C_Chandigarh.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Panorama_of_Sukhna_Lake%2C_Chandigarh.jpg",
         "mapLink": "https://www.google.com/maps?q=Sukhna+Lake+Chandigarh"
+    },
+    {
+        "name": "Rose Garden",
+        "city": "Chandigarh",
+        "description": "Asia's largest rose garden with thousands of varieties of roses.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Rose_Garden_Chandigarh.jpg",
+        "mapLink": "https://www.google.com/maps?q=Rose+Garden+Chandigarh"
     },
     {
         "name": "Lodhi Fort",
         "city": "Ludhiana",
         "description": "A Mughal-era fort built by Sikandar Lodhi offering historical significance and architectural charm.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/Lahore_Fort_from_Baradari.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Old_Fort_of_Lodhi_Garden.jpg",
         "mapLink": "https://www.google.com/maps?q=Lodhi+Fort+Ludhiana"
     },
     {
+        "name": "Punjab Agricultural University Museum",
+        "city": "Ludhiana",
+        "description": "Museum showcasing rural Punjabi heritage and farming history.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Pau_museum.jpg",
+        "mapLink": "https://www.google.com/maps?q=Punjab+Agricultural+University+Museum"
+    },
+    {
+        "name": "Hardy's World",
+        "city": "Ludhiana",
+        "description": "Popular amusement and water park in Punjab.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Hardys_World_Ludhiana.jpg",
+        "mapLink": "https://www.google.com/maps?q=Hardys+World+Ludhiana"
+    },
+    {
+        "name": "Qila Mubarak",
+        "city": "Patiala",
+        "description": "Historic fort complex representing Sikh architecture and royal heritage.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Qila_Mubarak_in_Bathinda.jpg",
+        "mapLink": "https://www.google.com/maps?q=Qila+Mubarak+Patiala"
+    },
+    {
+        "name": "Sheesh Mahal",
+        "city": "Patiala",
+        "description": "Palace famous for its mirror work and Mughal-style architecture.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Sheesh_Mahal%2C_Patiala.jpg",
+        "mapLink": "https://www.google.com/maps?q=Sheesh+Mahal+Patiala"
+    },
+    {
+        "name": "Takht Sri Kesgarh Sahib",
+        "city": "Anandpur Sahib",
+        "description": "One of the five Takhts of Sikhism and birthplace of the Khalsa.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Takht_Sri_Kesgarh_Sahib.JPG",
+        "mapLink": "https://www.google.com/maps?q=Kesgarh+Sahib"
+    },
+    {
+        "name": "Bathinda Fort (Qila Mubarak)",
+        "city": "Bathinda",
+        "description": "One of the oldest surviving forts in India with historic significance.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Bathinda_Fort.jpg",
+        "mapLink": "https://www.google.com/maps?q=Bathinda+Fort"
+    },
+    {
+        "name": "Jagatjit Palace",
+        "city": "Kapurthala",
+        "description": "French-inspired palace known as the Versailles of India.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Jagatjit_Palace.jpg",
+        "mapLink": "https://www.google.com/maps?q=Jagatjit+Palace+Kapurthala"
+    },
+    {
+        "name": "Ropar Wetland",
+        "city": "Rupnagar",
+        "description": "Important Ramsar site known for migratory birds and scenic river views.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Ropar_Wetland.jpg",
+        "mapLink": "https://www.google.com/maps?q=Ropar+Wetland"
+    },
+    {
         "name": "India Gate",
-        "city": "Delhi",
+        "city": "New Delhi",
         "description": "42-meter tall war memorial arch, a tribute to 70,000 Indian soldiers who died in World War I.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/India_Gate_in_New_Delhi_03-2016.jpg",
         "mapLink": "https://www.google.com/maps?q=India+Gate+Delhi"
     },
     {
+        "name": "Rashtrapati Bhavan",
+        "city": "New Delhi",
+        "description": "Official residence of the President of India with grand Mughal Gardens.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Rashtrapati_Bhavan_1.jpg",
+        "mapLink": "https://www.google.com/maps?q=Rashtrapati+Bhavan"
+    },
+    {
+        "name": "Humayun's Tomb",
+        "city": "New Delhi",
+        "description": "UNESCO World Heritage Site and precursor to the Taj Mahal.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Tomb_of_Humayun%2C_Delhi.jpg",
+        "mapLink": "https://www.google.com/maps?q=Humayun's+Tomb"
+    },
+    {
         "name": "Red Fort",
-        "city": "Delhi",
+        "city": "Old Delhi",
         "description": "UNESCO World Heritage Mughal fortress from 1638, symbol of India's sovereignty.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Red_Fort_in_Delhi_03-2016_img3.jpg",
-        "mapLink": "https://www.google.com/maps?q=Red+Fort+Delhi"
+        "mapLink": "https://www.google.com/maps?q=Red+Fort+Old+Delhi"
+    },
+    {
+        "name": "Jama Masjid",
+        "city": "Old Delhi",
+        "description": "One of the largest mosques in India built by Shah Jahan.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Jama_Masjid%2C_Delhi.jpg",
+        "mapLink": "https://www.google.com/maps?q=Jama+Masjid+Old+Delhi"
+    },
+    {
+        "name": "Chandni Chowk",
+        "city": "Old Delhi",
+        "description": "Famous market known for street food, jewelry and traditional shopping.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Chandni_Chowk_%2893969355%29.jpeg",
+        "mapLink": "https://www.google.com/maps?q=Chandni+Chowk"
     },
     {
         "name": "Qutub Minar",
-        "city": "Delhi",
+        "city": "South Delhi",
         "description": "73-meter UNESCO World Heritage minaret from 1193, the tallest brick minaret in the world.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Qutub_Minar%2C_Delhi_19.jpg",
-        "mapLink": "https://www.google.com/maps?q=Qutub+Minar+Delhi"
+        "mapLink": "https://www.google.com/maps?q=Qutub+Minar+South+Delhi"
+    },
+    {
+        "name": "Lotus Temple",
+        "city": "South Delhi",
+        "description": "Baháʼí House of Worship known for its lotus-shaped architecture.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Lotus_temple_daytime.jpg",
+        "mapLink": "https://www.google.com/maps?q=Lotus+Temple+South+Delhi"
+    },
+    {
+        "name": "Hauz Khas Village",
+        "city": "South Delhi",
+        "description": "Historic fort complex combined with trendy cafes and nightlife.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Hauz_Khas_Village_0002_036.jpg",
+        "mapLink": "https://www.google.com/maps?q=Hauz+Khas+South+Delhi"
+    },
+    {
+        "name": "Connaught Place",
+        "city": "Connaught Place",
+        "description": "Central business and shopping hub of Delhi.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Connaught_Place%2C_New_Delhi_at_night.jpg",
+        "mapLink": "https://www.google.com/maps?q=Connaught+Place"
+    },
+    {
+        "name": "Majnu Ka Tila",
+        "city": "North Delhi",
+        "description": "Tibetan colony famous for cafes, monasteries and street food.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Ktoya%2C_Tibetan_Monastery_%28Majnu_ka_tila%29_98.jpg",
+        "mapLink": "https://www.google.com/maps?q=Majnu+Ka+Tila"
+    },
+    {
+        "name": "Iskcon Temple Dwarka",
+        "city": "Dwarka",
+        "description": "Beautiful temple dedicated to Lord Krishna.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Iskcon_Dwarka.png",
+        "mapLink": "https://www.google.com/maps?q=Iskcon+Temple+Dwarka"
     },
     {
         "name": "Gateway of India",
-        "city": "Mumbai",
-        "description": "Iconic arch monument from 1924 overlooking the Arabian Sea, the most photographed Mumbai landmark.",
+        "city": "South Mumbai",
+        "description": "Iconic arch monument overlooking the Arabian Sea built during British rule.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Mumbai_03-2016_30_Gateway_of_India.jpg",
         "mapLink": "https://www.google.com/maps?q=Gateway+of+India+Mumbai"
     },
     {
+        "name": "Chhatrapati Shivaji Maharaj Terminus",
+        "city": "South Mumbai",
+        "description": "UNESCO World Heritage railway station known for Victorian Gothic architecture.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Chhatrapati_Shivaji_Maharaj_Terminus_CSMT_Mumbai_IMG_20230818_191824_%2812%29_01.jpg",
+        "mapLink": "https://www.google.com/maps?q=CST+Mumbai"
+    },
+    {
         "name": "Marine Drive",
-        "city": "Mumbai",
-        "description": "3.6 km coastal promenade known as the 'Queen's Necklace' for its glittering nighttime arc.",
+        "city": "South Mumbai",
+        "description": "Scenic seaside promenade known as the Queen’s Necklace.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Mumbai_03-2016_46_evening_at_Marine_Drive.jpg",
         "mapLink": "https://www.google.com/maps?q=Marine+Drive+Mumbai"
     },
     {
-        "name": "Chhatrapati Shivaji Terminus",
-        "city": "Mumbai",
-        "description": "UNESCO World Heritage Victorian Gothic railway station, an architectural masterpiece built in 1888.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Chhatrapati_Shivaji_Maharaj_Terminus_CSMT_Mumbai_IMG_20230818_191824_%2812%29_01.jpg",
-        "mapLink": "https://www.google.com/maps?q=Chhatrapati+Shivaji+Terminus+Mumbai"
+        "name": "Colaba Causeway",
+        "city": "South Mumbai",
+        "description": "Popular shopping street for souvenirs and street fashion.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Colaba_Causeway.jpg",
+        "mapLink": "https://www.google.com/maps?q=Colaba+Causeway"
+    },
+    {
+        "name": "Elephanta Caves",
+        "city": "Colaba",
+        "description": "UNESCO-listed rock-cut cave temples dedicated to Lord Shiva.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Elephanta_Caves_Mumbai.jpg",
+        "mapLink": "https://www.google.com/maps?q=Elephanta+Caves"
+    },
+    {
+        "name": "Bandra-Worli Sea Link",
+        "city": "Bandra",
+        "description": "Modern cable-stayed bridge connecting Bandra and Worli.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bandra-Worli_Sea_Link_500px_%2850553076%29.jpg",
+        "mapLink": "https://www.google.com/maps?q=Bandra+Worli+Sea+Link"
+    },
+    {
+        "name": "Mount Mary Church",
+        "city": "Bandra",
+        "description": "Historic Roman Catholic Basilica overlooking the Arabian Sea.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mount_Mary_Church_%28Bombay%29.jpg",
+        "mapLink": "https://www.google.com/maps?q=Mount+Mary+Church+Bandra"
+    },
+    {
+        "name": "Bandra Fort",
+        "city": "Bandra",
+        "description": "Portuguese-era fort offering views of the Sea Link.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Bandra_Fort.jpg",
+        "mapLink": "https://www.google.com/maps?q=Bandra+Fort"
+    },
+    {
+        "name": "Juhu Beach",
+        "city": "Juhu",
+        "description": "Popular beach known for street food and Bollywood celebrity homes nearby.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Juhu_beach_2019.jpg",
+        "mapLink": "https://www.google.com/maps?q=Juhu+Beach"
+    },
+    {
+        "name": "Mahakali Caves",
+        "city": "Andheri",
+        "description": "Ancient Buddhist rock-cut caves dating back to 1st century BCE.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/MAHAKALI_CAVES_AT_MAHAKALI%2CANDHERI_EAST%2CMUMBAI%2CINDIA..jpg",
+        "mapLink": "https://www.google.com/maps?q=Mahakali+Caves"
+    },
+    {
+        "name": "Powai Lake",
+        "city": "Powai",
+        "description": "Beautiful artificial lake surrounded by greenery and skyline views.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Powai_lake_hiranandani.jpg",
+        "mapLink": "https://www.google.com/maps?q=Powai+Lake"
+    },
+    {
+        "name": "Siddhivinayak Temple",
+        "city": "Dadar",
+        "description": "Famous Hindu temple dedicated to Lord Ganesha.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Shree_Siddhivinayak_Temple_Mumbai.jpg",
+        "mapLink": "https://www.google.com/maps?q=Siddhivinayak+Temple+Mumbai"
+    },
+    {
+        "name": "Shivaji Park",
+        "city": "Dadar",
+        "description": "Historic park known for political rallies and cricket culture.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Shivaji_Park_Mumbai.jpg",
+        "mapLink": "https://www.google.com/maps?q=Shivaji+Park+Dadar"
     },
     {
         "name": "Shaniwar Wada",
@@ -177,30 +534,128 @@
     {
         "name": "Lalbagh Botanical Garden",
         "city": "Bengaluru",
-        "description": "240-acre garden with rare plants, a Crystal Palace-inspired glasshouse, and a 3-billion-year-old rock.",
+        "description": "Historic botanical garden famous for its glass house and flower shows.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Pune_Palace.jpg",
-        "mapLink": "https://www.google.com/maps?q=Lalbagh+Botanical+Garden+Bengaluru"
+        "mapLink": "https://www.google.com/maps?q=Lalbagh+Botanical+Garden"
+    },
+    {
+        "name": "Cubbon Park",
+        "city": "Bengaluru",
+        "description": "Large green park in the heart of the city ideal for walking and relaxation.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Entrance_of_Cubbon_Park%2C_Bengaluru.jpg",
+        "mapLink": "https://www.google.com/maps?q=Cubbon+Park+Bangalore"
     },
     {
         "name": "Bangalore Palace",
         "city": "Bengaluru",
-        "description": "Tudor-style 1878 palace inspired by Windsor Castle with Gothic fortified towers.",
+        "description": "Royal palace inspired by Windsor Castle in England.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Bangalore_Palace_facade_on_a_cloudy_day.jpg",
         "mapLink": "https://www.google.com/maps?q=Bangalore+Palace"
     },
     {
+        "name": "Vidhana Soudha",
+        "city": "Bengaluru",
+        "description": "Seat of Karnataka legislature with grand neo-Dravidian architecture.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Vidhana_Soudha_Bangalore.jpg",
+        "mapLink": "https://www.google.com/maps?q=Vidhana+Soudha"
+    },
+    {
         "name": "Mysore Palace",
         "city": "Mysuru",
-        "description": "Stunning Indo-Saracenic palace of the Wadiyar dynasty, illuminated by 97,000 bulbs on Sundays.",
+        "description": "Magnificent royal palace illuminated beautifully during festivals.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Mysore_palace_images.jpg",
         "mapLink": "https://www.google.com/maps?q=Mysore+Palace"
     },
     {
         "name": "Chamundi Hills",
         "city": "Mysuru",
-        "description": "1,065-meter hilltop with the Chamundeshwari Temple and massive Nandi Bull carved from a single rock.",
+        "description": "Sacred hilltop temple offering panoramic city views.",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Monsoon_clouds_over_Chamundi_hill.jpg",
-        "mapLink": "https://www.google.com/maps?q=Chamundi+Hills+Mysuru"
+        "mapLink": "https://www.google.com/maps?q=Chamundi+Hills"
+    },
+    {
+        "name": "Brindavan Gardens",
+        "city": "Mysuru",
+        "description": "Famous garden with musical fountain near Krishnarajasagar Dam.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Brindavan_Gardens.jpg",
+        "mapLink": "https://www.google.com/maps?q=Brindavan+Gardens"
+    },
+    {
+        "name": "Virupaksha Temple",
+        "city": "Hampi",
+        "description": "Ancient temple dedicated to Lord Shiva and UNESCO World Heritage site.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Virupaksha_Temple_Hampi.jpg",
+        "mapLink": "https://www.google.com/maps?q=Virupaksha+Temple+Hampi"
+    },
+    {
+        "name": "Vittala Temple",
+        "city": "Hampi",
+        "description": "Famous for its iconic stone chariot and musical pillars.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Stone_Chariot_Hampi.jpg",
+        "mapLink": "https://www.google.com/maps?q=Vittala+Temple+Hampi"
+    },
+    {
+        "name": "Panambur Beach",
+        "city": "Mangaluru",
+        "description": "Popular beach known for sunset views and water sports.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Panambur_Beach.jpg",
+        "mapLink": "https://www.google.com/maps?q=Panambur+Beach"
+    },
+    {
+        "name": "Kadri Manjunath Temple",
+        "city": "Mangaluru",
+        "description": "Ancient temple dedicated to Lord Shiva with historic significance.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Kadri_Temple.jpg",
+        "mapLink": "https://www.google.com/maps?q=Kadri+Manjunath+Temple"
+    },
+    {
+        "name": "Udupi Sri Krishna Temple",
+        "city": "Udupi",
+        "description": "Famous pilgrimage center dedicated to Lord Krishna.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Udupi_Sri_Krishna_Temple.jpg",
+        "mapLink": "https://www.google.com/maps?q=Udupi+Krishna+Temple"
+    },
+    {
+        "name": "Malpe Beach",
+        "city": "Udupi",
+        "description": "Beautiful coastal beach known for golden sand and boating.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Malpe_Beach.jpg",
+        "mapLink": "https://www.google.com/maps?q=Malpe+Beach"
+    },
+    {
+        "name": "Jog Falls",
+        "city": "Shivamogga",
+        "description": "One of the highest waterfalls in India with breathtaking views.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Jog_Falls_2015.jpg",
+        "mapLink": "https://www.google.com/maps?q=Jog+Falls"
+    },
+    {
+        "name": "Mullayanagiri",
+        "city": "Chikkamagaluru",
+        "description": "Highest peak in Karnataka popular for trekking and scenic views.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Mullayanagiri.jpg",
+        "mapLink": "https://www.google.com/maps?q=Mullayanagiri"
+    },
+    {
+        "name": "Belagavi Fort",
+        "city": "Belagavi",
+        "description": "Historic fort dating back to the Ratta dynasty.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/Belgaum_Fort.jpg",
+        "mapLink": "https://www.google.com/maps?q=Belagavi+Fort"
+    },
+    {
+        "name": "Unkal Lake",
+        "city": "Hubballi-Dharwad",
+        "description": "Scenic lake popular for boating and relaxation.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Unkal_Lake.jpg",
+        "mapLink": "https://www.google.com/maps?q=Unkal+Lake"
+    },
+    {
+        "name": "Ballari Fort",
+        "city": "Ballari",
+        "description": "Historic hill fort offering panoramic views of the city.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bellary_Fort.jpg",
+        "mapLink": "https://www.google.com/maps?q=Ballari+Fort"
     },
     {
         "name": "Marina Beach",
