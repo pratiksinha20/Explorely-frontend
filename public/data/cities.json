@@ -268,7 +268,27 @@
     "state": "Tamil Nadu"
   },
   {
-    "name": "Kolkata",
+    "name": "Central Kolkata",
+    "state": "West Bengal"
+  },
+  {
+    "name": "North Kolkata",
+    "state": "West Bengal"
+  },
+  {
+    "name": "South Kolkata",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Salt Lake",
+    "state": "West Bengal"
+  },
+  {
+    "name": "New Town",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Alipore",
     "state": "West Bengal"
   },
   {
@@ -276,15 +296,55 @@
     "state": "West Bengal"
   },
   {
+    "name": "Park Street",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Dakshineswar",
+    "state": "West Bengal"
+  },
+  {
+    "name": "Belur",
+    "state": "West Bengal"
+  },
+  {
     "name": "Lucknow",
     "state": "Uttar Pradesh"
   },
   {
-    "name": "Kanpur",
+    "name": "Agra",
     "state": "Uttar Pradesh"
   },
   {
     "name": "Varanasi",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Prayagraj",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Mathura",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Vrindavan",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Ayodhya",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Jhansi",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Meerut",
+    "state": "Uttar Pradesh"
+  },
+  {
+    "name": "Gorakhpur",
     "state": "Uttar Pradesh"
   },
   {
@@ -297,6 +357,34 @@
   },
   {
     "name": "Jodhpur",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Jaisalmer",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Ajmer",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Pushkar",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Bikaner",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Chittorgarh",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Mount Abu",
+    "state": "Rajasthan"
+  },
+  {
+    "name": "Ranthambore (Sawai Madhopur)",
     "state": "Rajasthan"
   },
   {
@@ -424,11 +512,83 @@
     "state": "Mizoram"
   },
   {
+    "name": "Gurugram",
+    "state": "Haryana"
+  },
+  {
+    "name": "Faridabad",
+    "state": "Haryana"
+  },
+  {
+    "name": "Panipat",
+    "state": "Haryana"
+  },
+  {
+    "name": "Kurukshetra",
+    "state": "Haryana"
+  },
+  {
+    "name": "Ambala",
+    "state": "Haryana"
+  },
+  {
     "name": "Karnal",
     "state": "Haryana"
   },
   {
-    "name": "Gurugram",
+    "name": "Rohtak",
+    "state": "Haryana"
+  },
+  {
+    "name": "Sonipat",
+    "state": "Haryana"
+  },
+  {
+    "name": "Hisar",
+    "state": "Haryana"
+  },
+  {
+    "name": "Sirsa",
+    "state": "Haryana"
+  },
+  {
+    "name": "Yamunanagar",
+    "state": "Haryana"
+  },
+  {
+    "name": "Panchkula",
+    "state": "Haryana"
+  },
+  {
+    "name": "Rewari",
+    "state": "Haryana"
+  },
+  {
+    "name": "Bhiwani",
+    "state": "Haryana"
+  },
+  {
+    "name": "Jhajjar",
+    "state": "Haryana"
+  },
+  {
+    "name": "Mahendragarh",
+    "state": "Haryana"
+  },
+  {
+    "name": "Narnaul",
+    "state": "Haryana"
+  },
+  {
+    "name": "Palwal",
+    "state": "Haryana"
+  },
+  {
+    "name": "Jind",
+    "state": "Haryana"
+  },
+  {
+    "name": "Kaithal",
     "state": "Haryana"
   }
 ]
