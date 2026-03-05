@@ -367,50 +367,57 @@
         "name": "Elante Mall",
         "city": "Chandigarh",
         "description": "One of the largest shopping malls in North India with entertainment and restaurants.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Elante_Mall.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Elante_Mall%2C_Chandigarh.jpg",
         "mapLink": "https://www.google.com/maps?q=Elante+Mall+Chandigarh"
     },
     {
         "name": "Le Corbusier Centre",
         "city": "Chandigarh",
         "description": "Museum dedicated to the famous architect Le Corbusier who designed Chandigarh.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Le_Corbusier_Centre_Chandigarh.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Porch_at_Le_Corbusier_Centre_in_Chandigarh.jpg",
         "mapLink": "https://www.google.com/maps?q=Le+Corbusier+Centre+Chandigarh"
     },
     {
         "name": "Government Museum and Art Gallery",
         "city": "Chandigarh",
         "description": "Museum displaying Gandhara sculptures, miniature paintings and historical artifacts.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/5/59/Government_Museum_Chandigarh.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Government_Museum_and_Art_Gallery%2C_Chandigarh..jpg",
         "mapLink": "https://www.google.com/maps?q=Government+Museum+Chandigarh"
     },
     {
         "name": "Open Hand Monument",
         "city": "Chandigarh",
         "description": "Symbol of peace and unity designed by architect Le Corbusier.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Open_Hand_Monument.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Open_Hand_monument%2C_Chandigarh.jpg",
         "mapLink": "https://www.google.com/maps?q=Open+Hand+Monument+Chandigarh"
     },
     {
         "name": "Japanese Garden",
         "city": "Chandigarh",
         "description": "Beautiful garden inspired by Japanese landscaping with pagodas and water bodies.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Japanese_Garden_Chandigarh.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Japanese_style_building_in_chandigarh_Japanese_Garden.jpg",
         "mapLink": "https://www.google.com/maps?q=Japanese+Garden+Chandigarh"
     },
     {
         "name": "Terraced Garden",
         "city": "Chandigarh",
         "description": "Large garden known for seasonal flower festivals and greenery.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Terraced_Garden_Chandigarh.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/East_Garden_House_in_the_Terraced_Garden%2C_Luton_Hoo_%2801%29.jpg",
         "mapLink": "https://www.google.com/maps?q=Terraced+Garden+Chandigarh"
     },
     {
         "name": "Butterfly Park",
         "city": "Chandigarh",
         "description": "Park dedicated to butterflies and nature conservation.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Butterfly_Park_Chandigarh.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Entrance_Gate_Butterfly_Garden_Chandigarh.jpg",
         "mapLink": "https://www.google.com/maps?q=Butterfly+Park+Chandigarh"
+    },
+    {
+        "name": "Bird Park",
+        "city": "Chandigarh",
+        "description": "Park dedicated to birds and nature conservation.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Mandarinduck1.jpg",
+        "mapLink": "https://www.google.com/maps?q=Bird+Park+Chandigarh"
     },
     {
         "name": "International Dolls Museum",
@@ -423,14 +430,14 @@
         "name": "Garden of Fragrance",
         "city": "Chandigarh",
         "description": "Peaceful garden known for aromatic plants and walking paths.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Garden_of_Fragrance.jpg",
+        "image": "https://unsplash.com/photos/heres-a-short-caption-lavender-flowers-bloom-beautifully-in-this-image-a35PNKFhdv4",
         "mapLink": "https://www.google.com/maps?q=Garden+of+Fragrance+Chandigarh"
     },
     {
         "name": "Cactus Garden",
         "city": "Chandigarh",
         "description": "Asia’s largest outdoor cactus garden located in Panchkula near Chandigarh.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Cactus_Garden_Panchkula.jpg",
+        "image": "https://unsplash.com/photos/a-row-of-cactus-plants-next-to-a-walkway-cGd-MJME7Fk",
         "mapLink": "https://www.google.com/maps?q=Cactus+Garden+Panchkula"
     },
     {
@@ -444,28 +451,28 @@
         "name": "ISCON Temple Chandigarh",
         "city": "Chandigarh",
         "description": "Spiritual temple dedicated to Lord Krishna and part of the ISKCON movement.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/ISKCON_Temple_Chandigarh.jpg",
+        "image": "https://unsplash.com/photos/an-old-building-with-a-bicycle-parked-in-front-of-it-R623DYfjPbI",
         "mapLink": "https://www.google.com/maps?q=ISKCON+Temple+Chandigarh"
     },
     {
         "name": "Nada Sahib Gurudwara",
         "city": "Chandigarh",
         "description": "Historic Sikh shrine located on the banks of the Ghaggar River.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Nada_Sahib_Gurudwara.jpg",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Nada_sahib_gurudwara.JPG",
         "mapLink": "https://www.google.com/maps?q=Nada+Sahib+Gurudwara"
     },
     {
         "name": "Capitol Complex",
         "city": "Chandigarh",
         "description": "UNESCO World Heritage government complex designed by Le Corbusier.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Capitol_Complex_Chandigarh.jpg",
+        "image": "https://cdn.mos.cms.futurecdn.net/rTbPQEf5Geq46dLPS9XY4P-768-80.jpg.webp",
         "mapLink": "https://www.google.com/maps?q=Capitol+Complex+Chandigarh"
     },
     {
         "name": "Sector 17 Plaza",
         "city": "Chandigarh",
         "description": "Popular shopping and entertainment hub of the city.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Sector_17_Plaza.jpg",
+        "image": "https://www.holidify.com/images/cmsuploads/compressed/Chandigrah_Plaza_sector_17_photo_20190326142146_20190326142207.jpg",
         "mapLink": "https://www.google.com/maps?q=Sector+17+Plaza+Chandigarh"
     },
     {
@@ -479,7 +486,7 @@
         "name": "Maharaja Ranjit Singh War Museum",
         "city": "Ludhiana",
         "description": "Museum dedicated to the military history of Punjab and Maharaja Ranjit Singh.",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Maharaja_Ranjit_Singh_War_Museum.jpg",
+        "image": "https://www.mapsofindia.com/ci-moi-images/my-india//ranjit-singh-war-memorial-ludhiana.jpg",
         "mapLink": "https://www.google.com/maps?q=Maharaja+Ranjit+Singh+War+Museum+Ludhiana"
     },
     {
